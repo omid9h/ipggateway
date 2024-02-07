@@ -1,0 +1,11 @@
+{
+    "defaultTarget": "http://localhost:9000",
+    "listenAddress": ":9000",
+    "dbPath": "db.sqlite3",
+    "terminalFieldName": "TerminalCode",
+    "gracefulTimeout": 15,
+    "logDir": "",
+    "writeTimeout": 15,
+    "readTimeout": 15,
+    "idleTimeout": 60
+}

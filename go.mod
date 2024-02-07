@@ -1,6 +1,6 @@
-module github.com/omid9h/bp
+module github.com/omid9h/ipggateway
 
-go 1.21.4
+go 1.21.6
 
 require (
 	github.com/labstack/echo/v4 v4.11.4

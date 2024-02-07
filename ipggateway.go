@@ -9,9 +9,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/omid9h/bp/gateway"
-	"github.com/omid9h/bp/gateway/repo"
-	"github.com/omid9h/bp/pkg/util"
+	"github.com/omid9h/ipggateway/gateway"
+	"github.com/omid9h/ipggateway/gateway/repo"
+	"github.com/omid9h/ipggateway/pkg/util"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
